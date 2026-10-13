@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=20&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Novice-DH." alt="Hi, I'm Novice-DH." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=20&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Manus-DH." alt="Hi, I'm Manus-DH." />
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=720&lines=AI+Agent+Full-Stack+Developer" alt="AI Agent Full-Stack Developer" />
 </div>
 
@@ -14,15 +14,15 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Novice-DH">
-    <img src="https://img.shields.io/badge/GitHub-Novice--DH-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Novice-DH" />
+  <a href="https://github.com/Manus-DH">
+    <img src="https://img.shields.io/badge/GitHub-Manus--DH-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Manus-DH" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img width="440" src="https://streak-stats.demolab.com?user=Novice-DH&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="Novice-DH GitHub streak" />
+  <img width="440" src="https://streak-stats.demolab.com?user=Manus-DH&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="Manus-DH GitHub streak" />
 </div>
 
 ## 🚀 Featured Projects
@@ -33,8 +33,8 @@
 | [**AOCI-CODE**](https://github.com/aoci-spec/aoci-code) | 📐 AOCI 规范的代码实现 —— 面向 Agent 的开放协作接口 |
 | [**motion-web**](https://github.com/feitangyuan/motion-web) | 🎞️ 动效优先的创意 Web 框架与组件库 |
 | [**LobeHub**](https://github.com/lobehub/lobehub) | 🤖 首席 Agent 运营官 —— 把你的 Agent 编排成 7×24 全天候自动化运行 |
-| [**OpenMontage**](https://github.com/Novice-DH/OpenMontage) | 🎬 全球首个开源 Agentic 视频生产系统 |
-| [**QuantGPT**](https://github.com/Novice-DH/QuantGPT) | 📈 Agent 驱动的 Alpha 工厂 —— LLM 自主设计并回测量化策略 |
+| [**OpenMontage**](https://github.com/Manus-DH/OpenMontage) | 🎬 全球首个开源 Agentic 视频生产系统 |
+| [**QuantGPT**](https://github.com/Manus-DH/QuantGPT) | 📈 Agent 驱动的 Alpha 工厂 —— LLM 自主设计并回测量化策略 |
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +52,7 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Novice-DH/Novice-DH/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Novice-DH/Novice-DH/output/github-contribution-grid-snake.svg" />
-  <img alt="Novice-DH contribution snake" src="https://raw.githubusercontent.com/Novice-DH/Novice-DH/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manus-DH/Manus-DH/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manus-DH/Manus-DH/output/github-contribution-grid-snake.svg" />
+  <img alt="Manus-DH contribution snake" src="https://raw.githubusercontent.com/Manus-DH/Manus-DH/output/github-contribution-grid-snake.svg" />
 </picture>
